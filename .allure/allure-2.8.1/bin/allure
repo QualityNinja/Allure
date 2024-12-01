@@ -171,4 +171,3 @@ fi
 
 exec "$JAVACMD" "$@"
 
-
