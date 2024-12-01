@@ -170,3 +170,5 @@ if [ "" ] && [ "$HOME" = "$PWD" ]; then
 fi
 
 exec "$JAVACMD" "$@"
+
+
