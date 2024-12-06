@@ -2,7 +2,6 @@ package Homework_15.Task_1;
 import com.google.gson.Gson;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
 import static io.restassured.RestAssured.given;
 
 @Test
@@ -41,4 +40,3 @@ public class pashatest {
         System.out.println("Serialized JSON: " + jsonOutput);
     }
 }
-
